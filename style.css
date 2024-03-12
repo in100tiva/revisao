@@ -1,0 +1,15 @@
+h1 {
+    color: brown;
+}
+
+ul {
+    list-style: none;
+    color: darkred;
+
+}
+
+a {
+    text-decoration: none;
+    color: darkred;
+    
+}
